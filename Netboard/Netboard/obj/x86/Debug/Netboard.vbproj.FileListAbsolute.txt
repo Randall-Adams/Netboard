@@ -1,0 +1,20 @@
+C:\Users\Kaynewihza\AppData\Local\Temporary Projects\Netboard\bin\Debug\Netboard.exe
+C:\Users\Kaynewihza\AppData\Local\Temporary Projects\Netboard\bin\Debug\Netboard.pdb
+C:\Users\Kaynewihza\AppData\Local\Temporary Projects\Netboard\bin\Debug\Netboard.xml
+C:\Users\Kaynewihza\AppData\Local\Temporary Projects\Netboard\obj\x86\Debug\Netboard.Form1.resources
+C:\Users\Kaynewihza\AppData\Local\Temporary Projects\Netboard\obj\x86\Debug\Netboard.Resources.resources
+C:\Users\Kaynewihza\AppData\Local\Temporary Projects\Netboard\obj\x86\Debug\Netboard.vbproj.GenerateResource.Cache
+C:\Users\Kaynewihza\AppData\Local\Temporary Projects\Netboard\obj\x86\Debug\Netboard.exe
+C:\Users\Kaynewihza\AppData\Local\Temporary Projects\Netboard\obj\x86\Debug\Netboard.xml
+C:\Users\Kaynewihza\AppData\Local\Temporary Projects\Netboard\obj\x86\Debug\Netboard.pdb
+C:\Users\Kaynewihza\documents\visual studio 2010\Projects\Netboard\Netboard\obj\x86\Debug\Netboard.exe
+C:\Users\Kaynewihza\documents\visual studio 2010\Projects\Netboard\Netboard\obj\x86\Debug\Netboard.xml
+C:\Users\Kaynewihza\documents\visual studio 2010\Projects\Netboard\Netboard\obj\x86\Debug\Netboard.pdb
+C:\Users\Kaynewihza\documents\visual studio 2010\Projects\Netboard\Netboard\bin\Debug\Netboard.exe
+C:\Users\Kaynewihza\documents\visual studio 2010\Projects\Netboard\Netboard\bin\Debug\Netboard.pdb
+C:\Users\Kaynewihza\documents\visual studio 2010\Projects\Netboard\Netboard\bin\Debug\Netboard.xml
+C:\Users\Kaynewihza\documents\visual studio 2010\Projects\Netboard\Netboard\obj\x86\Debug\Netboard.Resources.resources
+C:\Users\Kaynewihza\documents\visual studio 2010\Projects\Netboard\Netboard\obj\x86\Debug\Netboard.vbproj.GenerateResource.Cache
+C:\Users\Kaynewihza\documents\visual studio 2010\Projects\Netboard\Netboard\obj\x86\Debug\Netboard.Netboard_v1.resources
+C:\Users\Kaynewihza\documents\visual studio 2010\Projects\Netboard\Netboard\obj\x86\Debug\Netboard.NetboardClient_v1.resources
+C:\Users\Kaynewihza\documents\visual studio 2010\Projects\Netboard\Netboard\obj\x86\Debug\Netboard.NetboardServer_v1.resources

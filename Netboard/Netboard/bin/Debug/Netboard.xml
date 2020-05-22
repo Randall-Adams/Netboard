@@ -1,0 +1,48 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Netboard
+</name>
+</assembly>
+<members>
+<member name="M:Netboard.Kaires_v1.A(System.Int32@,System.Int32)">
+	<summary>
+ Auto-Incrementer. Allows you to get the next index of the passed in index instead of manually incrementing it every time.
+ </summary>
+	<param name="I">The Index reference to increment. [Integer]</param>
+	<param name="IA">The amount to increment the index by. Default = 1 [Integer]</param>
+	<returns>Returns the new increment</returns>
+	<remarks>Nay! We are but men!</remarks>
+</member><member name="P:Netboard.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Netboard.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Netboard.My.Resources.Resources.Green_Light_Icon_png">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:Netboard.My.Resources.Resources.Red_Light_Icon_png">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:Netboard.My.Resources.Resources.White_Light_Icon_png">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:Netboard.My.Resources.Resources.Yellow_Light_Icon_png">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="T:Netboard.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

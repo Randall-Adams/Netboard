@@ -1,0 +1,11 @@
+C:\Users\Kaynewihza\documents\visual studio 2010\Projects\Netboard\Netboard\bin\Release\Netboard.exe
+C:\Users\Kaynewihza\documents\visual studio 2010\Projects\Netboard\Netboard\bin\Release\Netboard.pdb
+C:\Users\Kaynewihza\documents\visual studio 2010\Projects\Netboard\Netboard\bin\Release\Netboard.xml
+C:\Users\Kaynewihza\documents\visual studio 2010\Projects\Netboard\Netboard\obj\x86\Release\Netboard.Netboard_v1.resources
+C:\Users\Kaynewihza\documents\visual studio 2010\Projects\Netboard\Netboard\obj\x86\Release\Netboard.NetboardClient_v1.resources
+C:\Users\Kaynewihza\documents\visual studio 2010\Projects\Netboard\Netboard\obj\x86\Release\Netboard.NetboardServer_v1.resources
+C:\Users\Kaynewihza\documents\visual studio 2010\Projects\Netboard\Netboard\obj\x86\Release\Netboard.Resources.resources
+C:\Users\Kaynewihza\documents\visual studio 2010\Projects\Netboard\Netboard\obj\x86\Release\Netboard.vbproj.GenerateResource.Cache
+C:\Users\Kaynewihza\documents\visual studio 2010\Projects\Netboard\Netboard\obj\x86\Release\Netboard.exe
+C:\Users\Kaynewihza\documents\visual studio 2010\Projects\Netboard\Netboard\obj\x86\Release\Netboard.xml
+C:\Users\Kaynewihza\documents\visual studio 2010\Projects\Netboard\Netboard\obj\x86\Release\Netboard.pdb
